@@ -1,4 +1,4 @@
 [build]
-base="malefashionum-ecom"
+base = "https://github.com/ayishaaa/"
 publish="malefashionum-ecom/"
 command="npm run build"
