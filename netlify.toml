@@ -1,0 +1,4 @@
+[build]
+base="malefashionum-ecom"
+publish="malefashionum-ecom/"
+command="npm run build"
