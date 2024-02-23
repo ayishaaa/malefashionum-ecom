@@ -1,4 +1,4 @@
 [build]
-base = "https://github.com/ayishaaa/"
+base = "ayishaaa/malefashionum-ecom"
 publish="malefashionum-ecom/"
 command="npm run build"
