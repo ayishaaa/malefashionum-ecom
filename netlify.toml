@@ -1,5 +1,5 @@
 [build]
-base = "."
+base = "malefashionum-ecom"
 publish="malefashionum-ecom/"
-command="."
+command="npm run build"
 
